@@ -17,3 +17,7 @@
 * [Implemented](https://github.com/sodevious/nicoledominguez-nuxt/commit/b74d2e0416ea525f947ef037150d4f6ee9cd432c) PostCSS and Autoprefixer.
 
 * My Nuxt project is going to be refactoring/porting my personal website from a static Jekyll site into Nuxt. I have a feeling that the Nuxt version will be heavier and less performant.
+
+### Day 2: May 9th, 2019
+
+* [Created](https://github.com/sodevious/nicoledominguez-nuxt/commit/cd809afb9ec423667c00dc6d98950905ba4aafa0) a `<Button>` component.
